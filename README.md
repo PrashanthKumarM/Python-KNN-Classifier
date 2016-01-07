@@ -82,5 +82,9 @@ accuracy: 61 % and is constant
 
 Execution time : 402.38 seconds
 
+You can run the program as follows:
+
+				$ python knn.py train-data.txt test-data.txt < size of k >
+
 
 (Based on the problem statement in CS B551 Elements of Artificial Intelligence by Professor David J Crandall , Indiana University, Bloomington)
