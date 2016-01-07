@@ -14,7 +14,7 @@ Task at hand is to create a classiﬁer that decides the correct orientation of 
 
 Where r,g,b is understandably the red, green, blue values of each pixel. There are totally 192 features (whew!!)
 
-Settings for KNN along with results and screenshots of the output we got :
+Settings for KNN along with results we got :
 
 Input dataset : 
 
